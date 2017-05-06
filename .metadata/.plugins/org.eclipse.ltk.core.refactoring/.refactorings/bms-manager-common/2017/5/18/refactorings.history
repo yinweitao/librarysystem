@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.bms.pojoo&apos; to &apos;com.bms.pojo&apos;&#x0D;&#x0A;- Original project: &apos;bms-manager-common&apos;&#x0D;&#x0A;- Original element: &apos;bms-manager-common/src/main/java/com.bms.pojoo&apos;&#x0D;&#x0A;- Renamed element: &apos;bms-manager-common/src/main/java/com.bms.pojo&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.bms.pojoo&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java&lt;com.bms.pojoo" name="com.bms.pojo" qualified="false" references="true" stamp="1493985574379" textual="false" version="1.0"/>
+</session>

@@ -1,0 +1,4 @@
+com\bms\mapper\TbBookMapper.class
+com\bms\mapper\TbBookCatMapper.class
+com\bms\mapper\TbOrderMapper.class
+com\bms\mapper\TbUserMapper.class

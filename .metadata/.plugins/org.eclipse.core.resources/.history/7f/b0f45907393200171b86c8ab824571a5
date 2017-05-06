@@ -1,0 +1,12 @@
+package com.bms.controller;
+
+import org.springframework.stereotype.Controller;
+
+@Controller
+public class UserController {
+
+	
+	public String showindex(){
+		return "index";
+	}
+}

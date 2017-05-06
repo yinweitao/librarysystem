@@ -1,0 +1,23 @@
+package com.bms.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.bms.mapper.TbUserMapper;
+import com.bms.pojo.BmsResult;
+import com.bms.pojo.TbUserExample;
+
+@Service
+public class UserService {
+	
+	@Autowired
+	private TbUserMapper usermapper;
+	
+	public BmsResult getAllUser(){
+		
+		TbUserExample example= new TbUserExample();
+		usermapper.selectByExample(example);
+		
+		return null;
+	}
+}

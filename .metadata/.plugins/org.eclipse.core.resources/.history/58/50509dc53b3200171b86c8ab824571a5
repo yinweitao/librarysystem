@@ -1,0 +1,15 @@
+package com.bms.service;
+
+import org.springframework.stereotype.Service;
+
+import com.bms.pojo.BmsResult;
+
+@Service
+public class UserService {
+	
+	public BmsResult getAllUser(){
+		
+		
+		return null;
+	}
+}

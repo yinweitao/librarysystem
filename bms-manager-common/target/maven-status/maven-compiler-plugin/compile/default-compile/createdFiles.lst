@@ -1,0 +1,4 @@
+com\bms\utils\ExceptionUtil.class
+com\bms\pojo\BmsResult.class
+com\bms\utils\JsonUtils.class
+com\bms\utils\FastDFSClient.class

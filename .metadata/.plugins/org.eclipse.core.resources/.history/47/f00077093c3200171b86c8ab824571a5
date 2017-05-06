@@ -1,0 +1,17 @@
+package com.bms.service;
+
+import org.springframework.stereotype.Service;
+
+import com.bms.pojo.BmsResult;
+
+@Service
+public class UserService {
+	
+	private TbUserMapper usermapper;
+	
+	public BmsResult getAllUser(){
+		
+		
+		return null;
+	}
+}
