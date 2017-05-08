@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bms-manager/bms-manager.iml" filepath="$PROJECT_DIR$/bms-manager/bms-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms-manager-common/bms-manager-common.iml" filepath="$PROJECT_DIR$/bms-manager-common/bms-manager-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms-manager/bms-manager-mapper/bms-manager-mapper.iml" filepath="$PROJECT_DIR$/bms-manager/bms-manager-mapper/bms-manager-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms-manager/bms-manager-pojo/bms-manager-pojo.iml" filepath="$PROJECT_DIR$/bms-manager/bms-manager-pojo/bms-manager-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms-manager/bms-manager-service/bms-manager-service.iml" filepath="$PROJECT_DIR$/bms-manager/bms-manager-service/bms-manager-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms-manager/bms-manager-web/bms-manager-web.iml" filepath="$PROJECT_DIR$/bms-manager/bms-manager-web/bms-manager-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bms-parent/bms-parent.iml" filepath="$PROJECT_DIR$/bms-parent/bms-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/librarysystem.iml" filepath="$PROJECT_DIR$/.idea/librarysystem.iml" />
+    </modules>
+  </component>
+</project>

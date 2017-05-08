@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="bms-manager-web:war">
+    <output-path>$PROJECT_DIR$/bms-manager/bms-manager-web/target</output-path>
+    <root id="archive" name="bms-manager-web.war">
+      <element id="artifact" artifact-name="bms-manager-web:war exploded" />
+    </root>
+  </artifact>
+</component>
