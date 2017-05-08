@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="78e32f59-2842-44b5-8e39-c45a953ef685" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bms-manager/bms-manager-web/src/main/java/com/bms/controller/ShowViewController.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bms-manager/bms-manager-web/target/tomcat/logs/access_log.2017-05-08" afterPath="$PROJECT_DIR$/bms-manager/bms-manager-web/target/tomcat/logs/access_log.2017-05-08" />
     </list>
     <ignored path="$PROJECT_DIR$/bms-manager/bms-manager-web/target/" />
     <ignored path="$PROJECT_DIR$/bms-manager-common/target/" />
@@ -708,12 +708,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1494204757503</updated>
-      <workItem from="1494204760231" duration="729000" />
+      <workItem from="1494204760231" duration="868000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="729000" />
+    <option name="totallyTimeSpent" value="868000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1366" height="728" extended-state="0" />
